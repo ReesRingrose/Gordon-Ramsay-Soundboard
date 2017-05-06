@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166253022894",
+    "firebase_url": "https://gordonramsaysoundboard.firebaseio.com",
+    "project_id": "gordonramsaysoundboard",
+    "storage_bucket": "gordonramsaysoundboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166253022894:android:77226ed5c90dc843",
+        "android_client_info": {
+          "package_name": "comreesringrose.httpsgithub.gordonramsaysoundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166253022894-8vim5ee6n4scl40k6auofqciu7jj9qi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comreesringrose.httpsgithub.gordonramsaysoundboard",
+            "certificate_hash": "108235a61eece5093c4e600e13fe45d114048444"
+          }
+        },
+        {
+          "client_id": "166253022894-as1r5r1jlb5mv3oeticqqfthb26oqbd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jXNNmfiixPQdyRUcn8dl75EfoAoUs9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166253022894-as1r5r1jlb5mv3oeticqqfthb26oqbd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

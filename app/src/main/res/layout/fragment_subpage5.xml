@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#ffff">
+
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="It's Bland"
+                android:id="@+id/itsbland"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="It's Dry"
+                android:id="@+id/itsdry"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Jesus"
+                android:id="@+id/jesus"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Lamb Sauce"
+                android:id="@+id/lambsauce"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Lamb Sauce (Short)"
+                android:id="@+id/lambsauceshort"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Language Barrier"
+                android:id="@+id/languagebarrier"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Look At That"
+                android:id="@+id/lookatthat"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Look At The"
+                android:id="@+id/lookatthe"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Looks Like"
+                android:id="@+id/lookslike"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Risotto"
+                android:id="@+id/rasoto"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Raw"
+                android:id="@+id/raw"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Rubber"
+                android:id="@+id/rubber"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow7"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="Shit"
+                android:id="@+id/shit"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="The Big Suprise"
+                android:id="@+id/thebigsuprise"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow8"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="3 X 3"
+                android:id="@+id/threexthree"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Wellington"
+                android:id="@+id/wellington"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow9"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="What In The Fuck"
+                android:id="@+id/whatinthefuck"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+            <Space
+                android:layout_width="15sp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="What Is That"
+                android:id="@+id/whatisthat"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow10"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+            <Button
+                android:text="You Happy"
+                android:id="@+id/youhappy"
+                android:onClick="Statements2"
+                android:layout_width="150sp"
+                android:layout_height="75sp"
+                android:background="@drawable/button_bg_rounded_corners"
+                android:textColor="#ffff"
+                android:textSize="18sp"
+
+                android:textStyle="bold"/>
+
+
+        </TableRow>
+        <TableRow
+            android:id="@+id/tableRow13"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dip">
+
+
+
+            <Space
+                android:layout_width="30sp"
+                android:layout_height="wrap_content" />
+
+
+
+
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+
+
+</ScrollView>

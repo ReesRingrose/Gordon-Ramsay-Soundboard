@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gordon Ramsay Soundboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9681763196701658/6696898120</string>
+</resources>
